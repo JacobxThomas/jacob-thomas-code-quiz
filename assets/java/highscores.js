@@ -24,5 +24,5 @@ if (allScores !== null) {
 
 // Event listener to go to index page
 goBack.addEventListener("click", function () {
-    window.location.replace("./index.html");
+    window.location.replace("https://jacobxthomas.github.io/jacob-thomas-code-quiz/");
 });
